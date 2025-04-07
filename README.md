@@ -1,5 +1,4 @@
 # EX-NO-6-Pseudo-Random-Number
-
 ## Name: Rishi chandran R
 ## Reg no: 212223043005
 
